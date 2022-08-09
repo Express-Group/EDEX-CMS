@@ -1,0 +1,53 @@
+.modal-header {
+    padding: 15px;
+    border-bottom: 1px solid #e5e5e5;
+    background: #438EB9;
+    color: #fff;
+}
+.modal-body {
+    position: relative;
+    padding: 15px;
+    float: left;
+    width: 100%;
+}
+
+.modal-header .close {
+    font-size: 32px;
+    color: #060101 !important;
+}
+
+.form-group {
+    margin-bottom: 15px;
+    width: 100%;
+    float: left;
+}
+
+caption, th {
+     text-align: center !important; 
+}
+
+#status {
+	float: left;
+    width: 100%;
+}
+
+.center iframe
+{
+	height: 250px;
+    width: 450px;
+}
+.pagination {
+	float:right;
+}
+.pagination strong {
+    background: #138b13;
+    padding: 5px 10px;
+    color: #fff;
+}
+
+.pagination a{
+	background: #888;
+    padding: 5px 10px;
+    color: #fff;
+    margin-left: 5px;
+}
